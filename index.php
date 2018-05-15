@@ -8,4 +8,5 @@
 
 die("xxxxx");
 echo "xxxx";
+echo "hello world";
 
