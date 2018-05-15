@@ -7,4 +7,5 @@
  */
 
 die("xxxxx");
+echo "xxxx";
 
